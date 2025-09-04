@@ -1,0 +1,9 @@
+# Node.js / React
+node_modules/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
